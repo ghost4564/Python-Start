@@ -1,2 +1,5 @@
-# Python-Start
-Basic py setup
+#!/usr/bin/env python 3
+import
+
+
+
